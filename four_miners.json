@@ -1,0 +1,399 @@
+{
+  "generated_at": "",
+  "last_updated": "",
+  "source_policy": "优先使用公司官网IR/Results页面与官方PDF；提取失败字段明确标注。",
+  "companies": [
+    {
+      "company": "Vale",
+      "company_cn": "淡水河谷",
+      "report_period": "4Q25 / 2025",
+      "report_date": "2026-01-27",
+      "source_url": "https://filemanager-cdn.mziq.com/published/53207d1c-63b4-48f1-96b7-19869fae19fe/c4dceca9-6ed8-408a-8065-b6f7e86810da_0127_relatorio_de_producao_i.pdf",
+      "source_type": "PDF",
+      "source_links": [
+        {
+          "label": "4Q25 Production and Sales Report (PDF)",
+          "url": "https://filemanager-cdn.mziq.com/published/53207d1c-63b4-48f1-96b7-19869fae19fe/c4dceca9-6ed8-408a-8065-b6f7e86810da_0127_relatorio_de_producao_i.pdf"
+        },
+        {
+          "label": "4Q25 Performance Report (PDF)",
+          "url": "https://api.mziq.com/mzfilemanager/v2/d/53207d1c-63b4-48f1-96b7-19869fae19fe/0d85b370-58cc-698a-d7d8-a03173f32601?origin=2"
+        }
+      ],
+      "production": 9040.0,
+      "production_yoy": 6.0,
+      "production_qoq": -4.2,
+      "sales": 8490.0,
+      "sales_yoy": 4.5,
+      "sales_qoq": -1.3,
+      "guidance_low": 33500,
+      "guidance_mid": 34000,
+      "guidance_high": 34500,
+      "guidance_change": "新增2026年铁矿石指引33500-34500万吨；2025年已完成既有指引",
+      "guidance_change_numeric": 1.2,
+      "completion_rate": 100.3,
+      "required_output_next_quarters": 0,
+      "unit_cost": 21.3,
+      "realized_price": 95.4,
+      "disruption_tags": [
+        "项目投产",
+        "品位变化",
+        "成本变化"
+      ],
+      "summary": "4Q25铁矿石产量9040万吨，同比+6.0%，季度环比回落；全年铁矿石产量33610万吨并公布2026年33500-34500万吨指引。",
+      "management_commentary": "管理层强调VGR1与Capanema爬坡带动供给质量与灵活性提升，2026年继续推进高附加值与成本纪律。",
+      "event_timeline": [
+        {
+          "date": "2025-12-31",
+          "event": "S11D计划检修与部分维护安排影响季内节奏",
+          "impact": "中性"
+        },
+        {
+          "date": "2026-01-27",
+          "event": "发布4Q25生产销售报告并披露2026铁矿石指引",
+          "impact": "偏空"
+        }
+      ],
+      "raw_quotes": [
+        {
+          "quote": "Iron ore fines production reached 90.4 Mt in 4Q25, 6.0% higher y/y.",
+          "source_url": "https://filemanager-cdn.mziq.com/published/53207d1c-63b4-48f1-96b7-19869fae19fe/c4dceca9-6ed8-408a-8065-b6f7e86810da_0127_relatorio_de_producao_i.pdf"
+        },
+        {
+          "quote": "2026 guidance for iron ore is 335-345 Mt.",
+          "source_url": "https://filemanager-cdn.mziq.com/published/53207d1c-63b4-48f1-96b7-19869fae19fe/c4dceca9-6ed8-408a-8065-b6f7e86810da_0127_relatorio_de_producao_i.pdf"
+        }
+      ],
+      "history": [
+        {
+          "quarter": "2025Q3",
+          "production": 9440.0,
+          "sales": 8600.0
+        },
+        {
+          "quarter": "2025Q4",
+          "production": 9040.0,
+          "sales": 8490.0
+        }
+      ],
+      "actual_to_date": 33610.0,
+      "annualized_production": 34000,
+      "impact_weight": 0.3,
+      "disruption_score": 2,
+      "extraction_notes": [],
+      "last_updated": ""
+    },
+    {
+      "company": "BHP",
+      "company_cn": "必和必拓",
+      "report_period": "FY26 H1 (Q2 FY26)",
+      "report_date": "2026-01-20",
+      "source_url": "https://www.bhp.com/-/media/documents/media/reports-and-presentations/2026/bhp-operational-review-for-the-half-year-ended-31-december-2025.pdf",
+      "source_type": "PDF",
+      "source_links": [
+        {
+          "label": "Operational Review (HY ended 31 Dec 2025)",
+          "url": "https://www.bhp.com/-/media/documents/media/reports-and-presentations/2026/bhp-operational-review-for-the-half-year-ended-31-december-2025.pdf"
+        },
+        {
+          "label": "BHP Release Page",
+          "url": "https://www.bhp.com/news/media-centre/releases/2026/01/bhp-operational-review-for-the-half-year-ended-31-december-2025"
+        }
+      ],
+      "production": 6970.0,
+      "production_yoy": 5.0,
+      "production_qoq": 9.0,
+      "sales": 6940.0,
+      "sales_yoy": 3.0,
+      "sales_qoq": 7.7,
+      "guidance_low": 25800,
+      "guidance_mid": 26350.0,
+      "guidance_high": 26900,
+      "guidance_change": "维持不变",
+      "guidance_change_numeric": 0,
+      "completion_rate": 50.8,
+      "required_output_next_quarters": 12970.0,
+      "unit_cost": 19.0,
+      "realized_price": 85.33,
+      "disruption_tags": [
+        "天气"
+      ],
+      "summary": "Q2 FY26铁矿石产量6970万吨（同比+5%，环比+9%），全年WAIO产量指引25800-26900万吨维持不变。",
+      "management_commentary": "管理层强调铁矿、铜产量创半年度新高，并维持全年铁矿与单位成本指引。",
+      "event_timeline": [
+        {
+          "date": "2026-01-20",
+          "event": "发布HY26 Operational Review，铁矿指引维持不变",
+          "impact": "中性"
+        },
+        {
+          "date": "2026-03-31",
+          "event": "提示三季度可能受到季节性湿天气影响",
+          "impact": "偏多"
+        }
+      ],
+      "raw_quotes": [
+        {
+          "quote": "Q2 FY26 iron ore production was 69.7 Mt, up 5% year on year and 9% quarter on quarter.",
+          "source_url": "https://www.bhp.com/-/media/documents/media/reports-and-presentations/2026/bhp-operational-review-for-the-half-year-ended-31-december-2025.pdf"
+        },
+        {
+          "quote": "WAIO guidance remains unchanged at between 258 and 269 Mt.",
+          "source_url": "https://www.bhp.com/-/media/documents/media/reports-and-presentations/2026/bhp-operational-review-for-the-half-year-ended-31-december-2025.pdf"
+        }
+      ],
+      "history": [
+        {
+          "quarter": "2025Q3",
+          "production": 6390.0,
+          "sales": 6440.0
+        },
+        {
+          "quarter": "2025Q4",
+          "production": 6970.0,
+          "sales": 6940.0
+        }
+      ],
+      "actual_to_date": 13380.0,
+      "annualized_production": 26350.0,
+      "impact_weight": 0.23,
+      "disruption_score": 1,
+      "extraction_notes": [
+        "unit_cost为WAIO指引区间中值（18.25-19.75）而非季度实际口径。"
+      ],
+      "last_updated": ""
+    },
+    {
+      "company": "Rio Tinto",
+      "company_cn": "力拓",
+      "report_period": "4Q25 / 2025",
+      "report_date": "2026-01-21",
+      "source_url": "https://www.riotinto.com/en/news/releases/2026/rio-tinto-releases-fourth-quarter-2025-production-results",
+      "source_type": "HTML",
+      "source_links": [
+        {
+          "label": "4Q25 Production Results Release",
+          "url": "https://www.riotinto.com/en/news/releases/2026/rio-tinto-releases-fourth-quarter-2025-production-results"
+        },
+        {
+          "label": "Annual reporting（含2025年结果公告）",
+          "url": "https://www.riotinto.com/en/invest/financial-news-performance/annual-reporting"
+        }
+      ],
+      "production": 8970.0,
+      "production_yoy": 4.0,
+      "production_qoq": 6.7,
+      "sales": 9130.0,
+      "sales_yoy": 7.0,
+      "sales_qoq": 8.3,
+      "guidance_low": 32300,
+      "guidance_mid": 33050.0,
+      "guidance_high": 33800,
+      "guidance_change": "维持不变（全年发运32620万吨，位于指引下沿）",
+      "guidance_change_numeric": 0,
+      "completion_rate": 98.7,
+      "required_output_next_quarters": 0,
+      "unit_cost": 23.0,
+      "realized_price": 90.0,
+      "disruption_tags": [
+        "暴雨",
+        "天气"
+      ],
+      "summary": "Pilbara 4Q25产量8970万吨、发运9130万吨，全年发运32620万吨位于指引下沿；2025年Pilbara单位现金成本23.0美元/吨、all-in实现价90.0美元/湿吨。",
+      "management_commentary": "管理层指出Pilbara在年初极端天气扰动后持续修复，第四季度实现创纪录产量。",
+      "event_timeline": [
+        {
+          "date": "2025-01-01",
+          "event": "年初极端天气扰动影响Pilbara发运节奏",
+          "impact": "偏多"
+        },
+        {
+          "date": "2026-01-21",
+          "event": "4Q25生产结果发布，确认全年发运位于指引下沿",
+          "impact": "中性"
+        }
+      ],
+      "raw_quotes": [
+        {
+          "quote": "Pilbara operations produced 89.7 million tonnes in Q4 2025, 4% higher than Q4 2024.",
+          "source_url": "https://www.riotinto.com/en/news/releases/2026/rio-tinto-releases-fourth-quarter-2025-production-results"
+        },
+        {
+          "quote": "Pilbara shipments were 91.3 million tonnes in Q4 2025, 7% higher than Q4 2024.",
+          "source_url": "https://www.riotinto.com/en/news/releases/2026/rio-tinto-releases-fourth-quarter-2025-production-results"
+        },
+        {
+          "quote": "Pilbara unit cash costs were $23.0/wmt in 2025.",
+          "source_url": "https://www.riotinto.com/en/invest/financial-news-performance/annual-reporting"
+        },
+        {
+          "quote": "Pilbara Blend FOB all-in realised price (excluding third party volumes) was $90.0/wmt in 2025.",
+          "source_url": "https://www.riotinto.com/en/invest/financial-news-performance/annual-reporting"
+        }
+      ],
+      "history": [
+        {
+          "quarter": "2025Q3",
+          "production": 8410.0,
+          "sales": 8430.0
+        },
+        {
+          "quarter": "2025Q4",
+          "production": 8970.0,
+          "sales": 9130.0
+        }
+      ],
+      "actual_to_date": 32620.0,
+      "annualized_production": 33050.0,
+      "impact_weight": 0.29,
+      "disruption_score": 2,
+      "extraction_notes": [
+        "单位成本与实现价格来自Rio官方2025年年度结果公告（Annual reporting页面，Pilbara板块条目）。"
+      ],
+      "last_updated": ""
+    },
+    {
+      "company": "FMG",
+      "company_cn": "Fortescue",
+      "report_period": "FY26 Q2 (Dec 2025 Quarter)",
+      "report_date": "2026-01-22",
+      "source_url": "https://content.fortescue.com/fortescue17114-fortescueeb60-productionbbdb-8be5/media/project/fortescueportal/shared/documents/regulatory/asx-announcements/automated/03048082-december-2025-quarterly-production-report.pdf",
+      "source_type": "PDF",
+      "source_links": [
+        {
+          "label": "December 2025 Quarterly Production Report (PDF)",
+          "url": "https://content.fortescue.com/fortescue17114-fortescueeb60-productionbbdb-8be5/media/project/fortescueportal/shared/documents/regulatory/asx-announcements/automated/03048082-december-2025-quarterly-production-report.pdf"
+        },
+        {
+          "label": "Fortescue Results and Operational Performance",
+          "url": "https://investors.fortescue.com/en/results-and-operational-performance"
+        }
+      ],
+      "production": 5370.0,
+      "production_yoy": 7.0,
+      "production_qoq": 2.0,
+      "sales": 4650.0,
+      "sales_yoy": 9.0,
+      "sales_qoq": 3.0,
+      "guidance_low": 19000,
+      "guidance_mid": 19500,
+      "guidance_high": 20000,
+      "guidance_change": "维持不变",
+      "guidance_change_numeric": 0,
+      "completion_rate": 49.8,
+      "required_output_next_quarters": 9790.0,
+      "unit_cost": 18.24,
+      "realized_price": 79.0,
+      "disruption_tags": [
+        "天气"
+      ],
+      "summary": "FY26 Q2发运4650万吨（同比+9%，环比+3%），FY26发运指引19000-20000万吨维持不变。",
+      "management_commentary": "管理层表示在运营执行和成本纪律下，季度发运表现稳健并保持全年目标。",
+      "event_timeline": [
+        {
+          "date": "2026-01-22",
+          "event": "发布Dec-2025季度生产报告，确认FY26发运与C1成本指引均不变",
+          "impact": "中性"
+        }
+      ],
+      "raw_quotes": [
+        {
+          "quote": "Iron ore shipments of 46.5 million wmt, 3% higher than Q1 FY26 and 9% higher than Q2 FY25.",
+          "source_url": "https://content.fortescue.com/fortescue17114-fortescueeb60-productionbbdb-8be5/media/project/fortescueportal/shared/documents/regulatory/asx-announcements/automated/03048082-december-2025-quarterly-production-report.pdf"
+        },
+        {
+          "quote": "FY26 iron ore shipments guidance of 190-200 million wmt remains unchanged.",
+          "source_url": "https://content.fortescue.com/fortescue17114-fortescueeb60-productionbbdb-8be5/media/project/fortescueportal/shared/documents/regulatory/asx-announcements/automated/03048082-december-2025-quarterly-production-report.pdf"
+        }
+      ],
+      "history": [
+        {
+          "quarter": "2025Q3",
+          "production": 5260.0,
+          "sales": 5060.0
+        },
+        {
+          "quarter": "2025Q4",
+          "production": 5370.0,
+          "sales": 4650.0
+        }
+      ],
+      "actual_to_date": 9710.0,
+      "annualized_production": 19500,
+      "impact_weight": 0.18,
+      "disruption_score": 1,
+      "extraction_notes": [],
+      "last_updated": ""
+    }
+  ],
+  "aggregate": {
+    "total_production": 30350.0,
+    "total_production_yoy": 5.4,
+    "total_sales": 29210.0,
+    "total_sales_yoy": 5.6,
+    "total_guidance_mid": 112900.0,
+    "total_guidance_change": "整体以“维持不变”为主；Vale新增2026指引33500-34500万吨",
+    "completion_rate": 74.9,
+    "required_output_next_quarters": 22760.0,
+    "disruption_level": "中",
+    "market_impact": "中性偏空",
+    "quarterly_trend": [
+      {
+        "quarter": "2025Q3",
+        "production": 29500.0,
+        "sales": 28530.0,
+        "guidance_mid": 112900.0
+      },
+      {
+        "quarter": "2025Q4",
+        "production": 30350.0,
+        "sales": 29210.0,
+        "guidance_mid": 112900.0
+      }
+    ],
+    "yoy_mode": [
+      {
+        "metric": "合计产量同比",
+        "value": 5.4
+      },
+      {
+        "metric": "合计销量同比",
+        "value": 5.6
+      },
+      {
+        "metric": "合计年度指引变化",
+        "value": 0.0
+      }
+    ]
+  },
+  "market_mapping": {
+    "external_indicators": {
+      "australia_brazil_shipments": {
+        "value": null,
+        "status": "扩展位：可接港口/海运数据库"
+      },
+      "china_port_inventory": {
+        "value": null,
+        "status": "扩展位：可接港口库存日频"
+      },
+      "hot_metal_output": {
+        "value": null,
+        "status": "扩展位：可接铁水周频"
+      },
+      "platts_62": {
+        "value": null,
+        "status": "扩展位：可接普氏62%指数"
+      },
+      "i_main_contract": {
+        "value": null,
+        "status": "扩展位：可接期货主力连续"
+      }
+    }
+  },
+  "conclusions": {
+    "supply": "四巨头最新披露口径下，产量与发运整体同比仍在增长，全年指引总体未出现系统性下修，海运矿供给端偏宽松。",
+    "expectation_gap": "主要预期差来自天气扰动后的恢复斜率与季度间节奏错配，而非年度目标大幅调整。",
+    "futures_mapping": "若需求端边际未同步走强，当前财报供给信号更易压制矿价弹性；若后续出现港口/铁路/天气扰动再扩大，盘面可能转入阶段性修复。"
+  },
+  "errors": []
+}
