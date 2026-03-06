@@ -1,4 +1,4 @@
-const DATA_PATH = "./data/four_miners.json";
+const DATA_PATH = "./four_miners.json";
 
 const state = {
   data: null,
